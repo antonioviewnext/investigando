@@ -7,7 +7,7 @@ print('Hacemos el siguiente commit:segunda modificación')
 
 print('Esta línea es la que causa conflictos en el merge, estos conflictos han sido resueltos')
 
-
+print('Vamos a crear un rebase con conflictos')
 
 
 

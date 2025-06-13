@@ -9,7 +9,7 @@ print('Esta línea es la que causa conflictos en el merge, estos conflictos han 
 
 print('Hemos tenido un rebase con conflicto y lo hemos solucionado. Ahora si nos vamos a ir por la ramas, entramos en la rama bar')
 
-
+print('Primera modificacion de la rama bar')
 
 
 
